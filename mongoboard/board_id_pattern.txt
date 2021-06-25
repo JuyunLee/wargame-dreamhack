@@ -1,0 +1,14 @@
+# my articles id
+60d5f c5c 262d60001c6fcc 9a
+60d5f c92 262d60001c6fcc 9b
+60d5f de6 262d60001c6fcc 9c
+60d5f dea 262d60001c6fcc 9d
+
+# initial state
+60d5f 5c0 02fcc21708119b 1d
+60d5f 5c5 02fcc21708119b 1e
+
+60d5f 5cb 02fcc21708119b 20
+
+# FLAG article id
+60d5f 5dd 02fcc21708119b 1f
