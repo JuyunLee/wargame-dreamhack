@@ -1,14 +1,8 @@
-# my articles id
-60d5f c5c 262d60001c6fcc 9a
-60d5f c92 262d60001c6fcc 9b
-60d5f de6 262d60001c6fcc 9c
-60d5f dea 262d60001c6fcc 9d
-
-# initial state
-60d5f 5c0 02fcc21708119b 1d
-60d5f 5c5 02fcc21708119b 1e
-
-60d5f 5cb 02fcc21708119b 20
+# _id				publish_date			diff_seconds	number1
+60d70e6 2 b21581d90938e0b b	2021-06-26T11:24:18.785Z	0		2
+60d70e6 6 b21581d90938e0b c	2021-06-26T11:24:22.792Z	+4		6
+60d70e6 ? b21581d90938e0b ?	2021-06-26T11:24:25.796Z	+4+3 = +7	? = 9
+60d70e6 e b21581d90938e0b e	2021-06-26T11:24:28.799Z	+4+3+3 = +10	c
 
 # FLAG article id
-60d5f 5dd 02fcc21708119b 1f
+60d70e6 9 b21581d90938e0b d
