@@ -1,0 +1,6 @@
+It doesn't have admin permission until it's username is admin.
+
+Instead, I got a session cookie below
+.eJyrVspMqVCyMjTXUcpJLUvNUbJSSi9NLS5R0lHKS8xNBXITU3Iz84Dc0uLUoswUuEAtABNrEm0.YPP7GA.Fk727zcOnAv3TtmMARKC_6Ff_yg
+
+But I couldn't crack the cookie in usual method(base64 decoding for jwt)

@@ -1,0 +1,7 @@
+I entered mypage
+And the url was http://host1.dreamhack.games:port/user/17
+
+I changed the user number from 17 to other
+I could get users by get-users.sh and the result is users.txt
+
+But I couldn't login with them

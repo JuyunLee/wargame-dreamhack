@@ -1,0 +1,18 @@
+When I registered here, the server gave me a backup code
+And I can change the password with the backup code
+I made a lot of accounts like below
+
+username | backup code | user id |
+  user1  |      9      |    19   |
+  user2  |     22      |    20   |
+  user3  |     30      |    21   |
+  user4  |     66      |    22   |
+  user5  |     31      |    23   |
+  user6  |     51      |    24   |
+
+The backup code seems to be 1~100 random value
+
+But there was count for wrong try for each account
+IDK, Just do it anyway
+
+I made a script to brute-force backup code(brute-force.sh) and the result is (brute-result.txt)

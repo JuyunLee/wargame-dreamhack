@@ -1,0 +1,17 @@
+UserID: Apple / UserName: Apple / UserLevel: 1
+UserID: Banana / UserName: Banana / UserLevel: 0
+UserID: Melon / UserName: Melon / UserLevel: 0
+UserID: Cat / UserName: Cat / UserLevel: 0
+UserID: Dog / UserName: Dog / UserLevel: 1
+UserID: cherry / UserName: cherry / UserLevel: 0
+UserID: pear / UserName: pear / UserLevel: 0
+UserID: coconut / UserName: coconut / UserLevel: 1
+UserID: lemon / UserName: lemon / UserLevel: 1
+UserID: potato / UserName: potato / UserLevel: 1
+UserID: kiwi / UserName: kiwi / UserLevel: 0
+UserID: tomato / UserName: tomato / UserLevel: 0
+UserID: peach / UserName: peach / UserLevel: 1
+UserID: orange / UserName: orange / UserLevel: 1
+UserID: grape / UserName: grape / UserLevel: 0
+UserID: onion / UserName: onion / UserLevel: 0
+UserID: admin / UserName: admin / UserLevel: 0
